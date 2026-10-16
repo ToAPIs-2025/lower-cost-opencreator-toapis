@@ -1,0 +1,27 @@
+{
+  "task_id": "tsk_img_01M518ACKFF65TPDWKK02H1G0W",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "Original premium over-ear headphones in matte graphite and warm copper resting on a pale stone desk beside an open plain kraft box, natural side light, realistic product photograph, no text, no logos, square frame.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original premium over-ear headphones in matte graphite and warm copper resting on a pale stone desk beside an open plain kraft box, natural side light, realistic product photograph, no text, no logos, square frame.",
+  "output": "examples/gpt-image-2-vip.png",
+  "sha256": "7697820218e599d9e64ec9a3bc26c5eb9d21601629ac8ec8bcaab2daddb060d1",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

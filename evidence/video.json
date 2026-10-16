@@ -1,0 +1,34 @@
+{
+  "task_id": "tsk_vid_01M518H1QVDHW1ZCD867PCX8A0",
+  "model": "MiniMax-H3",
+  "request": {
+    "model": "MiniMax-H3",
+    "prompt": "Slow cinematic push toward the original graphite headphones, warm copper highlights, soft natural side light, preserve the product shape, no text.",
+    "duration": 5,
+    "resolution": "768p",
+    "aspect_ratio": "1:1",
+    "image_with_roles": [
+      {
+        "url": "<reference URL omitted>",
+        "role": "first_frame"
+      }
+    ]
+  },
+  "catalog_estimate_usd": "0.40",
+  "billing": {
+    "status": "pending"
+  },
+  "actual_charge_usd": null,
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Slow cinematic push toward the original graphite headphones, warm copper highlights, soft natural side light, preserve the product shape, no text.",
+  "output": "demo/first-frame-motion.mp4",
+  "sha256": "ce315b6dbacf56183aca7e054bf5e0c8a80e63714c2ec40d8ca6bf91f1f929b0",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet",
+  "full_video_decode_verified": true,
+  "actual_duration_seconds": 5.17,
+  "actual_dimensions": [
+    768,
+    768
+  ]
+}

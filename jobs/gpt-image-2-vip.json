@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2-vip",
+  "prompt": "Original premium over-ear headphones in matte graphite and warm copper resting on a pale stone desk beside an open plain kraft box, natural side light, realistic product photograph, no text, no logos, square frame.",
+  "size": "1024x1024",
+  "run_id": "1016-oc-0",
+  "output": "examples/gpt-image-2-vip.png",
+  "evidence": "evidence/gpt-image-2-vip.json"
+}

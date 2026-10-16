@@ -1,0 +1,28 @@
+{
+  "task_id": "tsk_img_01M5188Y3EX8TZNYK8WV506YN5",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "billing": null,
+  "request": {
+    "model": "gemini-nano-banana-2.1",
+    "prompt": "Original premium over-ear headphones in matte graphite and warm copper resting on a pale stone desk beside an open plain kraft box, natural side light, realistic product photograph, no text, no logos, square frame.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    }
+  },
+  "original_output": "examples/gemini-nano-banana-2-1.original.jpg",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original premium over-ear headphones in matte graphite and warm copper resting on a pale stone desk beside an open plain kraft box, natural side light, realistic product photograph, no text, no logos, square frame.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "sha256": "a1f5e53dcb1db0217696548dd9899f0b98409bcfc85b18622aff7fa0913ccebd",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

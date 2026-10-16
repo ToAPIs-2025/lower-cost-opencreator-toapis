@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gemini-nano-banana-2.1",
+  "prompt": "Original premium over-ear headphones in matte graphite and warm copper resting on a pale stone desk beside an open plain kraft box, natural side light, realistic product photograph, no text, no logos, square frame.",
+  "size": "1024x1024",
+  "run_id": "1016-oc-2",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "evidence": "evidence/gemini-nano-banana-2-1.json"
+}
